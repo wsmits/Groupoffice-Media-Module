@@ -1,0 +1,15 @@
+.go-module-icon-media , .go-menu-icon-media{
+	background:url('images/media.png');
+}
+
+.go-tab-icon-media {
+	background-image: none !important;
+}
+
+.go-model-icon-GO_Media_Model_Media{
+	background-image: url('images/media.png') !important;
+}
+
+.med-btn-medium{
+	background-image: url('images/disk.png') !important;
+}
